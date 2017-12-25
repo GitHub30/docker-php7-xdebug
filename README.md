@@ -15,3 +15,7 @@ The following packages are includes:
 
 The default apache vhost will point to /var/www/html. So you can mount your public folder there. An example for a 
 docker-compose setup is included.
+
+## Troubleshooting
+
+> [Could not bind socket on Atom](https://github.com/gwomacks/php-debug/issues/240#issuecomment-350566377)
